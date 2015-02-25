@@ -30,3 +30,8 @@ DFTinputtext2.txt
 DFTinputtext3.txt
 1.5, 5, 25 Hz
 1:6:10 amplitude
+
+=====
+Changelog:
+
+25/02/15: changed some variable names to more sensible versions, also using Python preferred "name_of_variable" underscore format.
